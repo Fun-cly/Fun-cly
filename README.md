@@ -9,8 +9,4 @@ Developer who enjoys building web apps and backend systems.
 * TypeScript
 * PHP / Laravel
 
-## Contact
-
-* GitHub: [Fun-cly](https://github.com/Fun-cly)
-
 Thanks for visiting! ✨
