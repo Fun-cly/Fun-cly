@@ -1,17 +1,12 @@
-# 👋 Hi, I'm Fun-cly
+# Hey, I'm Fun-cly 👋
 
-I'm a developer who enjoys building web apps and backend systems.
+## About Me
 
-## 🛠️ Skills
+Developer who enjoys building web apps and backend systems.
 
-- **TypeScript**
-- **PHP / Laravel**
-- JavaScript
-- HTML/CSS
-- MySQL
-- Git & GitHub
+## Skills
 
-
----
+* TypeScript
+* PHP / Laravel
 
 Thanks for visiting! ✨
