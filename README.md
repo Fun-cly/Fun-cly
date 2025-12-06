@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey, I'm Fun-cly 👋
 
-<!--
-**Fun-cly/Fun-cly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Developer who enjoys building web apps and backend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* TypeScript
+* PHP / Laravel
+
+## Contact
+
+* GitHub: [Fun-cly](https://github.com/Fun-cly)
+
+Thanks for visiting! ✨
