@@ -1,12 +1,16 @@
 # Hey, I'm Fun-cly 👋
 
-## About Me
-
-Developer who enjoys building web apps and backend systems.
+Backend Developer
 
 ## Skills
 
-* TypeScript
-* PHP / Laravel
+- TypeScript  
+- JavaScript  
+- PHP  
+- Laravel  
+- PostgreSQL  
+- MongoDB  
+- SQLite  
+- Redis  
 
 Thanks for visiting! ✨
